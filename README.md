@@ -2,9 +2,13 @@
 
 ## start the UI
 go to root
+```
 yarn
 yarn start
+```
 
 ## start the server
 go to .src/server
+```
 node index.js
+```
