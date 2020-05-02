@@ -1,0 +1,44 @@
+{
+  "name": "redux obervavle boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.22.2",
+    "normalize.css": "^8.0.0",
+    "react": "^16.10",
+    "react-dom": "^16.10",
+    "react-redux": "^7.1",
+    "react-scripts": "3",
+    "redux": "^4.0.0",
+    "redux-act": "^1.7.4",
+    "redux-devtools-extension": "^2.13.5",
+    "redux-observable": "^1.0.0",
+    "rxjs": "6",
+    "socket.io-client": "^2.1.1",
+    "styled-components": "^4.4.0",
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "lint:fix": "eslint src/**/*.js --fix"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^6.5.0"
+  }
+}
