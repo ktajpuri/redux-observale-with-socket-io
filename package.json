@@ -16,7 +16,7 @@
     "rxjs": "6",
     "socket.io-client": "^2.1.1",
     "styled-components": "^4.4.0",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "socket.io": "^1.7.3"
   },
   "scripts": {
